@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Rajesh-Killadi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java full stack
+- 🌱 I have completed java full stack certification
 - 💞️ I’m looking for opportunities
-- 📫 contact me with rajeshkilladi96@gmail.com
+- 📫 contact me with hellosparkcoder@gmail.com
 
 <!---
 Rajesh-Killadi/Rajesh-Killadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
