@@ -9,8 +9,6 @@
 
 - 🎬 Movie Lover: Always up for a good film—feel free to share your favorites or recommendations!  
   
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
@@ -42,6 +40,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
+ 
 </div>
 
 </td><td valign="top" width="33%">
@@ -84,31 +83,10 @@
 
 <br/>  
 
-
-## Github Stats  
-  
-
 <br/>  
-
-
-## Recent Blog Posts  
   
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Rajesh Killadi&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
 
 <div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
